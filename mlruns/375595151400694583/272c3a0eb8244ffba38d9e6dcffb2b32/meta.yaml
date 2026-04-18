@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataVersioningControl/ML-flow/mlruns/375595151400694583/272c3a0eb8244ffba38d9e6dcffb2b32/artifacts
+end_time: 1776503332364
+entry_point_name: ''
+experiment_id: '375595151400694583'
+lifecycle_stage: active
+run_id: 272c3a0eb8244ffba38d9e6dcffb2b32
+run_name: nimble-moose-505
+run_uuid: 272c3a0eb8244ffba38d9e6dcffb2b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776503332272
+status: 3
+tags: []
+user_id: Mubashir Hussain

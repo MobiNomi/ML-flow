@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataVersioningControl/ML-flow/mlruns/375595151400694583/fc6efafb4fb24f2295b7cf93b742efaf/artifacts
+end_time: 1776503332653
+entry_point_name: ''
+experiment_id: '375595151400694583'
+lifecycle_stage: active
+run_id: fc6efafb4fb24f2295b7cf93b742efaf
+run_name: intelligent-grub-262
+run_uuid: fc6efafb4fb24f2295b7cf93b742efaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776503332528
+status: 3
+tags: []
+user_id: Mubashir Hussain

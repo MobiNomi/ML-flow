@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataVersioningControl/ML-flow/mlruns/375595151400694583/9477a745ccfb43a2b74fc7b37f332302/artifacts
+end_time: 1776503333626
+entry_point_name: ''
+experiment_id: '375595151400694583'
+lifecycle_stage: active
+run_id: 9477a745ccfb43a2b74fc7b37f332302
+run_name: salty-worm-388
+run_uuid: 9477a745ccfb43a2b74fc7b37f332302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776503333542
+status: 3
+tags: []
+user_id: Mubashir Hussain

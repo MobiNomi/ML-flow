@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataVersioningControl/ML-flow/mlruns/375595151400694583/880f44998a1a4ec3bee379ad96f8a748/artifacts
+end_time: 1776503332498
+entry_point_name: ''
+experiment_id: '375595151400694583'
+lifecycle_stage: active
+run_id: 880f44998a1a4ec3bee379ad96f8a748
+run_name: burly-grouse-15
+run_uuid: 880f44998a1a4ec3bee379ad96f8a748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776503332384
+status: 3
+tags: []
+user_id: Mubashir Hussain

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataVersioningControl/ML-flow/mlruns/375595151400694583/a7bfa23d91cb4a4fa987d978279d4446/artifacts
+end_time: 1776503333181
+entry_point_name: ''
+experiment_id: '375595151400694583'
+lifecycle_stage: active
+run_id: a7bfa23d91cb4a4fa987d978279d4446
+run_name: classy-stoat-182
+run_uuid: a7bfa23d91cb4a4fa987d978279d4446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776503333056
+status: 3
+tags: []
+user_id: Mubashir Hussain

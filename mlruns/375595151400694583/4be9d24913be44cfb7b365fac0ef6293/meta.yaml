@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataVersioningControl/ML-flow/mlruns/375595151400694583/4be9d24913be44cfb7b365fac0ef6293/artifacts
+end_time: 1776503332762
+entry_point_name: ''
+experiment_id: '375595151400694583'
+lifecycle_stage: active
+run_id: 4be9d24913be44cfb7b365fac0ef6293
+run_name: aged-loon-805
+run_uuid: 4be9d24913be44cfb7b365fac0ef6293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776503332679
+status: 3
+tags: []
+user_id: Mubashir Hussain

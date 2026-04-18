@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataVersioningControl/ML-flow/mlruns/375595151400694583/8573ae55c29a430f9fd2a11abbd5fc00/artifacts
+end_time: 1776503331985
+entry_point_name: ''
+experiment_id: '375595151400694583'
+lifecycle_stage: active
+run_id: 8573ae55c29a430f9fd2a11abbd5fc00
+run_name: respected-crab-835
+run_uuid: 8573ae55c29a430f9fd2a11abbd5fc00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776503331846
+status: 3
+tags: []
+user_id: Mubashir Hussain

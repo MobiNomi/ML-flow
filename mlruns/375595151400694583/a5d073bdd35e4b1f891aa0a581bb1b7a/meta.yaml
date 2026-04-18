@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataVersioningControl/ML-flow/mlruns/375595151400694583/a5d073bdd35e4b1f891aa0a581bb1b7a/artifacts
+end_time: 1776503333793
+entry_point_name: ''
+experiment_id: '375595151400694583'
+lifecycle_stage: active
+run_id: a5d073bdd35e4b1f891aa0a581bb1b7a
+run_name: sassy-ram-965
+run_uuid: a5d073bdd35e4b1f891aa0a581bb1b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776503333646
+status: 3
+tags: []
+user_id: Mubashir Hussain

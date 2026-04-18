@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataVersioningControl/ML-flow/mlruns/375595151400694583/5c9868f73f0947fb8876f11c9609a0cb/artifacts
+end_time: 1776503333037
+entry_point_name: ''
+experiment_id: '375595151400694583'
+lifecycle_stage: active
+run_id: 5c9868f73f0947fb8876f11c9609a0cb
+run_name: skittish-conch-851
+run_uuid: 5c9868f73f0947fb8876f11c9609a0cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776503332789
+status: 3
+tags: []
+user_id: Mubashir Hussain

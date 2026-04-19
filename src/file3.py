@@ -14,15 +14,15 @@ import dagshub
 dagshub.init(repo_owner='MobiNomi', repo_name='ML-flow', mlflow=True)
 mlflow.set_tracking_uri("https://dagshub.com/MobiNomi/ML-flow.mlflow")
 
-mlflow.set_experiment("Wine_Classification_Experiment_2")  # Set the experiment name
+mlflow.set_experiment("Wine_Classification_Experiment")  # Set the experiment name
 
 wine = load_wine()
 X = wine.data
 y = wine.target
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-max_depth = 9
-n_estimators = 16
+max_depth = 5
+n_estimators = 8
 
 with mlflow.start_run():
     model = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
